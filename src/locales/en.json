@@ -1,0 +1,10 @@
+{
+  "title": "Lab 15",
+  "subtitle": "Library Integration",
+  "task1": "01 / Weather (Recharts)",
+  "task2": "02 / Pie Chart (Chart.js)",
+  "task3": "03 / Event Scheduler (date-fns)",
+  "task4": "04 / Theme (Material-UI)",
+  "task5": "05 / Search (lodash debounce)",
+  "indiv": "INDIVIDUAL / Multilingual"
+}
